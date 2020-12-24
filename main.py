@@ -1,4 +1,4 @@
-from numbers import N
+from better_numbers import N
 
 n = N(10)
 
