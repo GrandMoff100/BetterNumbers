@@ -3,7 +3,7 @@
 
 ### ``class N`` Methods
 Deals with **integers** in all bases greater than one.
-> Note: Decimals not implemented yet.
+> Note: Floats not implemented yet.
 
 - ``n.to_base_ten()``
 Returns the base ten equivalent of ``n``
